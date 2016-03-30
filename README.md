@@ -1,1 +1,3 @@
 # housing-hackathon-bangalore-2015
+
+Created basic pages for finding the lands/properties nearby during the 24 hours hackathon organised by Housing.com in April 2015. The idea was to provide a location based search where the results will be displayed inside a map similar to google maps, similar to what current UI of Housing.com is. The search criteria and options were intelligently selected where neighbours' ratings and ethinicity of the location were also taken into conideration. The code and functionality are incomplete. However, doing bit hacking with the code will do the basic job, (our team of 4 did the same during the presentation).
